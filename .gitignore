@@ -1,0 +1,8 @@
+# File sementara Python
+__pycache__/
+*.pyc
+
+# Pengaturan editor dan lingkungan virtual
+.vscode/
+.idea/
+venv/
