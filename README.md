@@ -4,10 +4,6 @@ Program kasir sederhana berbasis terminal, dibuat dengan Python untuk
 Tugas 8 mata kuliah Rekayasa Perangkat Lunak (Coding Standard dan
 Version Control).
 
-- Nama  : [isi nama]
-- NIM   : [isi NIM]
-- Kelas : [isi kelas]
-
 ## Fitur
 
 - Melihat daftar produk beserta harga dan stok
